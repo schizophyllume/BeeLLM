@@ -1,7 +1,11 @@
 # For the full project, please visit the repository on Hugging Face! 
 https://huggingface.co/schizophyllume/BeeLLM
 ---
-I have copied the README below, but all of the model files exist only in the Hugging Face repo. 
+## I have copied the README below, but all of the model files exist only in the Hugging Face repo. 
+
+Someone made a coin: 7ZpKoVqzcP3i3kKJzRTiXFPKnnodkAYfAhXBywXDpump
+im honored that someone made one for my little bee project :D 
+
 ---
 license: apache-2.0
 pipeline_tag: text-generation
