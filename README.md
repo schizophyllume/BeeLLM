@@ -1,5 +1,6 @@
 # For the full project, please visit the repository on Hugging Face! 
 https://huggingface.co/schizophyllume/BeeLLM
+---
 I have copied the README below, but all of the model files exist only in the Hugging Face repo. 
 ---
 license: apache-2.0
